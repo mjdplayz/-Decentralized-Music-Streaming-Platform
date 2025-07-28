@@ -105,3 +105,5 @@ Our vision is to create a truly decentralized music ecosystem where:
 ---
 
 *Join us in building the future of music streaming - where artists are empowered, listeners are valued, and creativity thrives in a decentralized ecosystem.*
+## Contract Details : 0x00f78A148c82Ce63e2b614d869c7BFc92a580f96
+<img width="1840" height="896" alt="image" src="https://github.com/user-attachments/assets/41032149-4521-4f42-b87d-5273808eb533" />
